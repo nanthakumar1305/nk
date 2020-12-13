@@ -9,5 +9,6 @@ public class nantha
 		b=inp.nextInt();
 		c=a+b;
 		System.out.println("sum of:"+c);
+		System.out.println("Hello World");
 	}
 }
